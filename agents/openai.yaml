@@ -1,0 +1,4 @@
+interface:
+  display_name: "高考志愿顾问"
+  short_description: "结合位次、专业和就业前景规划志愿"
+  default_prompt: "Use $gaokao-application-advisor to help me build a safe Gaokao college application plan with school-major choices, admission risk, salary outlook, and career prospects."
